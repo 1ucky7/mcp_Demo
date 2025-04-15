@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+tqdm
+urllib3
+concurrent-log-handler
+python-dotenv

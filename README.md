@@ -1,5 +1,3 @@
-# mcp_Demo
-mcp服务demo-提取网站js
 ```bash
 cd getjs
 # 创建虚拟环境
